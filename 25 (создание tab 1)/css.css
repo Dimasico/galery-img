@@ -1,0 +1,15 @@
+.tabCont{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.tab{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.content{
+    display: none;
+}
